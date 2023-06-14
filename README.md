@@ -6,8 +6,6 @@
     <img alt="Bitcent" src="https://github.com/transformacaodev/bitcent/blob/main/.github/cover.svg" />
 </h2>
 
-<br>
-
 ## Tecnologias
 
 Lista de tecnologias utilizadas no projeto:
